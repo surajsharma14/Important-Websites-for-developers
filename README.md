@@ -14,3 +14,4 @@
 ## UI / Design 
 - https://motion.zajno.com/ ( Motion effects)
 - https://v0.dev/ (Thoughts to design best for web developers)
+- https://www.cofolios.com/ ( Placed peoples portfolios)
